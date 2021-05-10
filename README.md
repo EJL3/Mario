@@ -1,2 +1,2 @@
-# Mario
-A junky mario game.
+# Requirements
+pygame
